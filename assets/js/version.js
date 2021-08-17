@@ -1,1 +1,0 @@
-alert("Version: " + 1)
