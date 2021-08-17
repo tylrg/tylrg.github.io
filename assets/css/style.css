@@ -849,7 +849,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #4ae3c6;
+  color: #99B8FF;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -1131,7 +1131,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #34dfbf;
+  color: #99B8FF;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -1164,7 +1164,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #14806c;
+  background: #99B8FF;
 }
 
 #footer .copyright {
