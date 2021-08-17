@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #21cfaf;
+  background: #5C8DFF;
   color: #fff;
 }
 
@@ -459,7 +459,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background-color: #f7f7f7;
+  background-color: #FEFADC;
   min-height: 40px;
   margin-top: 72px;
 }
@@ -659,7 +659,7 @@ section {
   position: relative;
   overflow: hidden;
   margin: 0;
-  background: #fff;
+  background: #FEFADC;
   transition: all 0.3s ease-in-out;
   border-radius: 15px;
   text-align: center;
@@ -1189,7 +1189,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #e1f0ee;
+  background: #FEFADC;
   display: flex;
   justify-content: center;
   align-items: center;
