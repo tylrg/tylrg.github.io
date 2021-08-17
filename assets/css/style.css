@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #5C8DFF;
+  background: #21cfaf;
   color: #fff;
 }
 
@@ -459,7 +459,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background-color: #FEFADC;
+  background-color: #f7f7f7;
   min-height: 40px;
   margin-top: 72px;
 }
@@ -659,7 +659,7 @@ section {
   position: relative;
   overflow: hidden;
   margin: 0;
-  background: #FEFADC;
+  background: #fff;
   transition: all 0.3s ease-in-out;
   border-radius: 15px;
   text-align: center;
@@ -1176,6 +1176,10 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact{
+  background: #FDFCED;
+}
+
 .contact .info {
   padding: 30px;
   width: 100%;
@@ -1189,7 +1193,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #FEFADC;
+  background: #e1f0ee;
   display: flex;
   justify-content: center;
   align-items: center;
