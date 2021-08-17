@@ -679,7 +679,7 @@ section {
   box-shadow: 0 2px 29px 0 rgba(37, 37, 37, 0.1);
 }
 
-.services .icon i {
+.services .icon .material-icons {
   font-size: 48px;
   line-height: 1;
   margin-bottom: 15px;
