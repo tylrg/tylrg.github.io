@@ -701,20 +701,20 @@ section {
   margin-bottom: 0;
 }
 
-.services .icon-box-pink .icon i {
+.services .icon-box-pink .icon material-icons {
   color: #ff689b;
 }
 
-.services .icon-box-cyan .icon i {
+.services .icon-box-cyan .icon material-icons {
   color: #3fcdc7;
 }
 
-.services .icon-box-green .icon i {
+.services .icon-box-green .icon material-icons {
   color: #41cf2e;
 }
 
-.services .icon-box-blue .icon i {
-  color: #2282ff;
+.services .icon-box-blue .icon material-icons {
+  color: #3772FF;
 }
 
 /*--------------------------------------------------------------
