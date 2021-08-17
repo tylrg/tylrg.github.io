@@ -24,7 +24,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Amiri", serif;
+  font-family: "Merriweather", serif;
 }
 
 /*--------------------------------------------------------------
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 2px;
-  font-family: "Amiri",serif;
+  font-family: "Merriweather",serif;
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
@@ -382,7 +382,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Amiri", serif;
+  font-family: "Merriweather", serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -1375,7 +1375,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Amiri", serif;
+  font-family: "Merriweather", serif;
   color: #fff;
 }
 
