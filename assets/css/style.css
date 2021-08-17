@@ -1177,13 +1177,13 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact{
-  background: #FDFCED;
+  background: #E2F1F3;
 }
 
 .contact .info {
   padding: 30px;
   width: 100%;
-  background: #fff;
+  background: #F0F8F9;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
