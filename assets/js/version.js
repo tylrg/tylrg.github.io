@@ -1,0 +1,1 @@
+alert("Version: " + 1)
